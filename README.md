@@ -10,10 +10,6 @@ Two bubbles appear with random numbers inside of them, and the player must type 
 - Use the `SPACE` bar to see a cheat sheet to help with any question.
 - Use the `UP` or `DOWN` arrow keys to increase or decrease the speed with which the bubbles float off-screen.
 
-## Executables
+## Play the game
 
-See the [dist/](./dist/) directory for executables to run on Windows, Mac, or Linux computers.
-
-## Code
-
-The game is written in [Processing](https://processing.org).
+The game is available to play online [here](https://bloombar.github.io/multiplication-game/).
